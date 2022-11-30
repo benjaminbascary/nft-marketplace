@@ -11,3 +11,7 @@ If so, use the last lts version of node:
 Run deploy.js script on hardhat local network
 
 ```npx hardhat run src/backend/scripts/deploy.js --network localhost```
+
+Run tests
+
+```npx hardhat test```
